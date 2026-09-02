@@ -15,3 +15,5 @@ Este repositorio contiene la implementación del Backend en Spring Boot, demostr
 - **Gestión Hermética:** Exclusión absoluta de credenciales y secretos mediante el uso exclusivo de variables de entorno y el archivo `.gitignore`.
 - **Aislamiento:** Herramientas de instrumentación técnica bloqueadas en producción, activándose únicamente bajo el perfil explícito de desarrollo (dev).
 - **Docker No-Root:** Contenedor empaquetado configurando un usuario con privilegios restringidos.
+- ## Enlace al Frontend
+Puedes revisar la interfaz web desarrollada en Vite y TypeScript en el siguiente enlace: [Repositorio Frontend Vite-TS](https://github.com/cpalaciosm90-design/frontend-vite-ts)
