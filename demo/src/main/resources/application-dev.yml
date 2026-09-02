@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/mi_base_local
+    username: postgres
+    password: mi_contraseña_secreta
+springdoc:
+  swagger-ui:
+    enabled: true
